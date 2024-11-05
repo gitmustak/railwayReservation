@@ -1,0 +1,24 @@
+/* TrainDetails.css */
+.train-details {
+    text-align: center;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #fff;
+  }
+  
+  .book-button {
+    margin-top: 1rem;
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    text-decoration: none;
+  }
+  
+  .book-button:hover {
+    background-color: #45a049;
+  }
+  

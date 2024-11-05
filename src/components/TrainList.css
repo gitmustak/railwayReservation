@@ -1,0 +1,24 @@
+/* TrainList.css */
+.train-list {
+    text-align: center;
+  }
+  
+  .train-cards {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+  }
+  
+  .train-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 1rem;
+    width: 200px;
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .train-card:hover {
+    background-color: #f0f0f0;
+  }
+  
